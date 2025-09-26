@@ -65,6 +65,16 @@ section h3 {
   background-color: #f9f9f9;
 }
 
+.participant-info {
+  background-color: #e3f2fd;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  border: 1px solid #90caf9;
+  color: #0d47a1;
+  font-size: 16px;
+}
+
 .activity-card h4 {
   margin-bottom: 10px;
   color: #0066cc;
